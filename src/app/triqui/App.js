@@ -1,10 +1,10 @@
 "use client";
 
-import Board from "./Board";
+import Game from "./Board";
 
 export default function App() {
     return (
-        <Board></Board>
+        <Game/>
     );
 }
 
